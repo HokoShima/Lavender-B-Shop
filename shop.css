@@ -45,7 +45,7 @@ body{
     align-items: center;
 }
 .wl img:hover{
-    transition-duration: 2s;
+    transition-duration: 1s;
     width: 200px;
     height: 200px;
 }
@@ -58,7 +58,7 @@ body{
     font-size: 52px;
     color: #E6E6FA ;
     letter-spacing: 2px;
-    transition-duration: 2s;
+    transition-duration: 1s;
 }
 .gl{
     font-family: 'Poor Story', cursive;
